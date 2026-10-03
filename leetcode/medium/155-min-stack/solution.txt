@@ -1,20 +1,31 @@
 class MinStack {
     Stack<int[]> st;
-    //0th index is main stack element 
-    //1th index is min so far
-
     public MinStack() {
         st = new Stack<>();
+        //[ele,min]
     }
-
+    
     public void push(int value) {
         if(st.isEmpty()){
             st.push(new int[]{value,value});
             return;
         }
-        int[] arr = st.peek();
-        int minSoFar = arr[1];
-        if(minSoFar<value){
-            st.push(new int[]{value,minSoFar});
-        }else{
+        if(st.peek()[1]>value){
             st.push(new int[]{value,value});
+        }else{
+            int prevMin = st.peek()[1];
+            st.push(new int[]{value,prevMin});
+        }
+    }
+    
+    public void pop() {
+
+        if(!st.isEmpty()){
+            st.pop();
+        }
+        
+    }
+    
+    public int top() {
+        if(!st.isEmpty()){
+          
