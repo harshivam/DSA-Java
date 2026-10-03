@@ -1,0 +1,24 @@
+{
+  "title": "Evaluate Reverse Polish Notation",
+  "titleSlug": "evaluate-reverse-polish-notation",
+  "frontendQuestionId": "150",
+  "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Stack"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-03T22:57:19.200Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-03T22:57:21.209Z"
+}
