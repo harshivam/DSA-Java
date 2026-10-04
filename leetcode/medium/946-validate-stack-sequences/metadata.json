@@ -1,0 +1,24 @@
+{
+  "title": "Validate Stack Sequences",
+  "titleSlug": "validate-stack-sequences",
+  "frontendQuestionId": "946",
+  "leetcodeUrl": "https://leetcode.com/problems/validate-stack-sequences/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Simulation"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-04T04:07:12.405Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-04T04:07:14.256Z"
+}
