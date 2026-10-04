@@ -1,0 +1,25 @@
+{
+  "title": "Basic Calculator",
+  "titleSlug": "basic-calculator",
+  "frontendQuestionId": "224",
+  "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "String",
+    "Stack",
+    "Recursion"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-04T04:13:45.269Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-04T04:13:47.091Z"
+}

@@ -1,0 +1,25 @@
+1;
+            } else if (c == '(') {
+                st.push(result);
+                st.push(sign);
+                number = 0;
+                result = 0;
+                sign = 1;
+
+            } else if (c == ')') {
+                result += number * sign;
+                number = 0;
+                int lastSign = st.pop();
+                int lastResult = st.pop();
+                result*= lastSign;
+                result+=lastResult;
+            }
+
+        }
+
+        result+= (number*sign);
+
+        return result;
+
+    }
+}
