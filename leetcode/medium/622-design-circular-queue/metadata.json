@@ -1,0 +1,25 @@
+{
+  "title": "Design Circular Queue",
+  "titleSlug": "design-circular-queue",
+  "frontendQuestionId": "622",
+  "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Linked List",
+    "Design",
+    "Queue"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-09T16:46:28.775Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-09T16:46:30.987Z"
+}
