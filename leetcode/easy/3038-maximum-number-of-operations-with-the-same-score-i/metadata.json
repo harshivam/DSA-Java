@@ -1,0 +1,23 @@
+{
+  "title": "Maximum Number of Operations With the Same Score I",
+  "titleSlug": "maximum-number-of-operations-with-the-same-score-i",
+  "frontendQuestionId": "3038",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-10T04:42:21.886Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-10T04:42:23.749Z"
+}
