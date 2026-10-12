@@ -1,0 +1,20 @@
+String(prefixClosedPenalty));
+        for (int j = n; j >= 1; j--) {
+            if (customers.charAt(j - 1) == 'Y') {
+                countOpen++;
+            }
+            prefixOpenPenalty[j - 1] = countOpen;
+        }
+        int ans = n - 1;
+        int sumPenalty = Integer.MAX_VALUE;
+        System.out.println(Arrays.toString(prefixOpenPenalty));
+        for (int j = 0; j <= n; j++) {
+            int sum = prefixOpenPenalty[j] + prefixClosedPenalty[j];
+            if (sum < sumPenalty) {
+                sumPenalty = sum;
+                ans = j;
+            }
+        }
+        return ans;
+    }
+}

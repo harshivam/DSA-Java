@@ -1,0 +1,23 @@
+{
+  "title": "Minimum Penalty for a Shop",
+  "titleSlug": "minimum-penalty-for-a-shop",
+  "frontendQuestionId": "2483",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Prefix Sum"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-12T06:05:07.298Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "HINT",
+  "helpLabel": "Needed hint",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-12T06:05:17.210Z"
+}
