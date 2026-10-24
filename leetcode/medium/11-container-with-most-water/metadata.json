@@ -1,0 +1,24 @@
+{
+  "title": "Container With Most Water",
+  "titleSlug": "container-with-most-water",
+  "frontendQuestionId": "11",
+  "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-24T16:51:49.265Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-24T16:51:51.116Z"
+}
