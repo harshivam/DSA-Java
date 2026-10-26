@@ -1,0 +1,37 @@
+ximizeSum(int[] nums, int k) {
+        PriorityQueue<Integer> pq1 = new PriorityQueue<>((a,b)-> b-a);
+        PriorityQueue<Integer> pq2 = new PriorityQueue<>((a,b)-> b-a);
+        long sum = 0;
+
+        for(int num: nums){
+            sum+=num;
+            int originalNum = num;
+
+            while(num>0){
+                int ele = num%10;
+                num/=10;
+                pq1.offer(ele);
+            }
+            //form number
+            int number = 0;
+            while(!pq1.isEmpty()){
+                number = number*10 + pq1.poll();
+            }
+            pq2.offer(number-originalNum);
+        }
+
+        while(!pq2.isEmpty() && k >0){
+            sum+= pq2.poll();
+            k--;
+        }
+
+
+
+
+
+
+
+    return sum;
+    }
+
+}
