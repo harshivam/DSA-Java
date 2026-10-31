@@ -1,0 +1,24 @@
+{
+  "title": "Maximum Product After K Increments",
+  "titleSlug": "maximum-product-after-k-increments",
+  "frontendQuestionId": "2233",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-product-after-k-increments/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-31T21:00:52.736Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-31T21:00:54.688Z"
+}
